@@ -1,0 +1,36 @@
+body{
+			background: url('old.jpg') no-repeat fixed;
+			font-size: 23px;
+			background-size: cover;
+			background-position: center;
+		}
+h1{
+			color: blue;
+			padding:10px;
+			margin:0px auto;
+			text-align: center; 
+		}
+p{
+			width:50%;
+			color: black;
+			padding:10px;
+			margin:20px auto;
+			background-color:white;
+			border-radius: 3px;
+		}
+a:link{
+	 text-decoration: none;
+	 text-decoration: underline;
+
+}
+a:visited{
+	text-decoration: none;
+}
+a:hover{
+	background-color: magenta;
+	text-decoration-color: cyan;
+	 transition: color 0.5s;
+}
+a:active{
+	background-color: cyan;
+}

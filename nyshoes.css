@@ -1,0 +1,23 @@
+body{
+  font-size: 24px;
+  font color: white;
+  font-family: Times new Roman;
+  margin:0px 10px auto;
+  border-color: black;
+  text-align: center;
+  background-repeat: no-repeat;
+  /*background-image: url('old.jpg');*/
+}
+.one{
+  background-image:url('shoes.jpg');
+  background-position: center;
+  padding: 80px;
+}
+.two{
+  padding: 10px;
+}
+.three{
+  font-style: oblique;
+  background-image: url('sport.jpg');
+  padding: 5px;
+}
